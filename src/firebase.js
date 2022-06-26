@@ -6,12 +6,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDnC0xaoYNr6y9a5rQWRnKqgbc01Sv7HXA",
-  authDomain: "firestore-svelte.firebaseapp.com",
-  projectId: "firestore-svelte",
-  storageBucket: "firestore-svelte.appspot.com",
-  messagingSenderId: "637992759156",
-  appId: "1:637992759156:web:e144c8d7af17d1c07d4621",
+  //Your Api key here
 };
 
 // Initialize Firebase
